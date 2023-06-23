@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/username/inventory-management/config"
+	"github.com/fazarth/inventory_go/config"
 )
 
 func main() {

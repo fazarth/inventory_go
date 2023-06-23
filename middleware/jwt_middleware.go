@@ -6,7 +6,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
-	"github.com/username/inventory-management/config"
+	"github.com/fazarth/inventory_go/config"
 )
 
 // JWTMiddleware validates the JWT token from the request headers

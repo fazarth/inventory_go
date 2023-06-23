@@ -2,8 +2,8 @@ package config
 
 import (
 	"github.com/labstack/echo/v4"
-	"github.com/username/inventory-management/controller"
-	"github.com/username/inventory-management/middleware"
+	"github.com/fazarth/inventory_go/controller"
+	"github.com/fazarth/inventory_go/middleware"
 )
 
 type Router struct {

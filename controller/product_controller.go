@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo/v4"
-	"github.com/username/inventory-management/config"
-	"github.com/username/inventory-management/model"
+	"github.com/fazarth/inventory_go/config"
+	"github.com/fazarth/inventory_go/model"
 	"gorm.io/gorm"
 )
 
